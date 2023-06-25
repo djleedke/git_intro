@@ -1,1 +1,2 @@
-"Doug Leedke" 
+Doug Leedke
+leedked@oregonstate.edu
